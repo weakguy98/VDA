@@ -72,8 +72,8 @@ The performance on VOC and COCO of our method. You can download our final model 
 
 | Dataset | Backbone |  Val  | Checkpoints | Segmentation Results | CAM |
 |:-------:|:--------:|:-----:|:-----------:|:--------------------:|:---:|
-|   PASCAL VOC   |   ViT-B  | 79.9  | [-]() | [-]() | - |
-|   MS COCO  |   ViT-B  |  51.4 |   -  | [-]() | - |
+|   PASCAL VOC   |   ViT-B  | 79.9  | - | - | - |
+|   MS COCO  |   ViT-B  |  51.4 |   -  | - | - |
 
 
 
