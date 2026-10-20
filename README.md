@@ -70,8 +70,8 @@ The performance on VOC and COCO of our method. You can download our final model 
 
 | Dataset | Backbone |  Val  | Checkpoints | Segmentation Results | CAM |
 |:-------:|:--------:|:-----:|:-----------:|:--------------------:|:---:|
-|   PASCAL VOC   |   ViT-B  | 79.9  | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | - |
-|   MS COCO  |   ViT-B  |  51.4 |   [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A)  | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) |
+|   PASCAL VOC   |   ViT-B  | 79.9  | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) |
+|   MS COCO  |   ViT-B  |  51.4 |   [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A)  | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) |- |
 
 
 
