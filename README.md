@@ -1,8 +1,6 @@
 # Beyond Text: Visual Description Assembly by Probabilistic Model for CLIP-based Weakly Supervised Semantic Segmentation (CVPR 2026)
 
 
-The complete codes and results will update soon, may within one month.
-
 ## Overview
 
 <p align="middle">
@@ -68,12 +66,12 @@ bash run_train.sh scripts/train_coco_vda.py [gpu_devices] [gpu_numbers] [master_
 
 ## Main Results
 
-The performance on VOC and COCO of our method. You can download our final model checkpoints and visual results here (waiting update).
+The performance on VOC and COCO of our method. You can download our final model checkpoints and visual results here. The Baidu Netdisk extraction code is 529i.
 
 | Dataset | Backbone |  Val  | Checkpoints | Segmentation Results | CAM |
 |:-------:|:--------:|:-----:|:-----------:|:--------------------:|:---:|
-|   PASCAL VOC   |   ViT-B  | 79.9  | - | - | - |
-|   MS COCO  |   ViT-B  |  51.4 |   -  | - | - |
+|   PASCAL VOC   |   ViT-B  | 79.9  | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | - |
+|   MS COCO  |   ViT-B  |  51.4 |   [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A)  | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) | [BaiduNetdisk](https://pan.baidu.com/s/1Wz3I6BECyFpHgNzw125V-A) |
 
 
 
